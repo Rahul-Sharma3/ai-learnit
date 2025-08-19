@@ -90,19 +90,6 @@ Contributions are welcome!
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
-
-## 👨‍💻 Author
-
-**Rahul Sharma**
-📍 Delhi, India
-🔗 [LinkedIn](https://linkedin.com/in/rahul-sharma) | [GitHub](https://github.com/Rahul-Sharma3)
-
----
 
 ```
 
