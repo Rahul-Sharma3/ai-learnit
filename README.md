@@ -32,16 +32,6 @@
 
 ---
 
-## 📸 Screenshots  
-
-| Landing Page | Dashboard | AI Resume Builder |  
-|--------------|-----------|-------------------|  
-| ![Landing](https://via.placeholder.com/400x200?text=Landing+Page) | ![Dashboard](https://via.placeholder.com/400x200?text=Dashboard) | ![Resume](https://via.placeholder.com/400x200?text=Resume+Builder) |  
-
-*(Replace with real screenshots from your project UI)*  
-
----
-
 ## 🚀 Getting Started  
 
 Follow these steps to run **Learn-it** locally:  
