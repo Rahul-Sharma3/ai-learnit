@@ -37,9 +37,11 @@
 Follow these steps to run **Learn-it** locally:  
 
 ### 1️⃣ Clone the Repository  
-```bash
+```
+bash
 git clone https://github.com/your-username/learn-it.git
 cd learn-it
+```
 
 ### 2️⃣ Install Dependencies
 
