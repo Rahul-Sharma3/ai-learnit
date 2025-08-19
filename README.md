@@ -1,6 +1,3 @@
-
-
-````markdown
 # 🚀 Learn-it : AI Powered Career Guide  
 
 [![Next.js](https://img.shields.io/badge/Next.js-15-black?style=flat&logo=next.js)](https://nextjs.org/)  
@@ -53,70 +50,3 @@ Follow these steps to run **Learn-it** locally:
 ```bash
 git clone https://github.com/your-username/learn-it.git
 cd learn-it
-````
-
-### 2️⃣ Install Dependencies
-
-```bash
-npm install
-```
-
-### 3️⃣ Setup Environment Variables
-
-Create a `.env.local` file in the root folder and add the following:
-
-```env
-DATABASE_URL=your_postgres_connection_url
-NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your_clerk_key
-CLERK_SECRET_KEY=your_clerk_secret
-GEMINI_API_KEY=your_gemini_api_key
-```
-
-### 4️⃣ Run the Development Server
-
-```bash
-npm run dev
-```
-
-App will be live at **[http://localhost:3000](http://localhost:3000)** 🎉
-
----
-
-## 🌟 Future Enhancements
-
-* 📈 Personalized **career roadmap suggestions**.
-* 🤖 More **AI-powered career tools** (mock group discussions, coding interviews).
-* 📱 Mobile app integration with React Native.
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-* Fork the repo
-* Create your feature branch (`git checkout -b feature/awesome-feature`)
-* Commit changes (`git commit -m 'Added awesome feature'`)
-* Push branch (`git push origin feature/awesome-feature`)
-* Open a Pull Request 🚀
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
-
-## 👨‍💻 Author
-
-**Rahul Sharma**
-📍 Delhi, India
-🔗 [LinkedIn](https://linkedin.com/in/rahul-sharma) | [GitHub](https://github.com/Rahul-Sharma3)
-
----
-
-```
-
-
-```
